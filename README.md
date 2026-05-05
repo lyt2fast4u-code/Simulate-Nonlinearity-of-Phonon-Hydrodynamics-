@@ -1,4 +1,4 @@
-# Simulate-Nonlinearity-of-Phonon-Hydrodynamics-
+# Simulate Nonlinearity of Phonon Hydrodynamics
 A little work based on paper "Effects of nonlinearity on phono hydrodynamics in graphite", huge thanks to Wanying Liu and Yangyu Guo for providing the mathematical foundation of nonlinearity in phonon hydrodynamics. 
 The entire project uses Fortran rather than Python in order to ensure optimal compatibility with the ShengBTE project. The current code has passed gray-body testing and can correctly simulate the Poiseuille flow phenomenon. However, the compatibility module for interfacing with ShengBTE calculation data is still under testing. If everything goes smoothly, it will be uploaded to the repository soon.
 
